@@ -1,0 +1,2 @@
+C:\Users\SAMUEL\Desktop\PruebaOracle\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\PruebaOracle\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache

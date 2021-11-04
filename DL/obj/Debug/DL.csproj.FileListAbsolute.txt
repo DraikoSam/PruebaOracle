@@ -1,0 +1,12 @@
+C:\Users\52922\source\repos\PruebaOracle\DL\bin\Debug\DL.dll
+C:\Users\52922\source\repos\PruebaOracle\DL\bin\Debug\DL.pdb
+C:\Users\52922\source\repos\PruebaOracle\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\52922\source\repos\PruebaOracle\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\52922\source\repos\PruebaOracle\DL\obj\Debug\DL.dll
+C:\Users\52922\source\repos\PruebaOracle\DL\obj\Debug\DL.pdb
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\bin\Debug\DL.dll
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\bin\Debug\DL.pdb
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\obj\Debug\DL.dll
+C:\Users\SAMUEL\Desktop\PruebaOracle\DL\obj\Debug\DL.pdb
